@@ -1,0 +1,10 @@
+Provide the database credentials in config.py file and also in stats.py
+
+Run -- go to folder code and type command python3 main.py
+code for problem 1 and 2 is in file createdDatabase.py
+code for problem 3 is in file stats.py
+code for problem 4 is in main.py
+
+1. Created two database names as the folder name and table name as the text file name.
+2. Creted result table in database "wx_data" for stats.
+3. Keeping both the required data into data folder.
